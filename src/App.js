@@ -1,8 +1,10 @@
+import ChatFlowBuilder from "./components/ChatFlowBuilder";
+
 function App() {
   return (
-    <div>
-      <h1 className="text-3xl">Chatbot Flow Builder</h1>
-    </div>
+    <main>
+      <ChatFlowBuilder />
+    </main>
   );
 }
 
