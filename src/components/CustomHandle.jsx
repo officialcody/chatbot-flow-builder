@@ -13,6 +13,7 @@ const CustomHandle = ({ type, position }) => {
         height: 10,
         background: "white",
         border: "1px solid #000",
+        backgroundColor: "rgb(75 85 99 / 1)",
       }}
     />
   );
